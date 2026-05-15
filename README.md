@@ -657,16 +657,4 @@ sudo systemctl restart wazuh-manager
 # 6. Run attack simulations and observe alerts
 ```
 
----
 
-## Author
-
-**Om** — B.Tech CSE (Cybersecurity), Lovely Professional University
-
-Built a compliance-ready SIEM monitoring system using Wazuh to collect logs, detect threats, map alerts to PCI-DSS/ISO 27001 standards, and visualize security events through a centralized dashboard.
-
----
-
-## License
-
-This project is for **educational purposes only**. All attack simulations were performed in an isolated virtual lab environment. No external systems were targeted.
