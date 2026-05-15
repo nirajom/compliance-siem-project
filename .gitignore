@@ -1,35 +1,17 @@
-# Credentials & secrets
 *.key
 *.pem
 *.crt
-*.p12
 passwords.txt
-credentials.txt
-
-# Wordlists (too large + not your code)
 rockyou.txt
 *.wordlist
-
-# VM disk images
 *.qcow2
 *.img
 *.iso
 *.vmdk
-*.vdi
-
-# OS junk
 .DS_Store
-Thumbs.db
-desktop.ini
-
-# Temp files
 *.tmp
 *.log
 *.swp
-*.swo
-*~
-
-# Python
 __pycache__/
 *.pyc
 .env
