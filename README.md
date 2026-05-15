@@ -18,9 +18,7 @@ A complete Security Information and Event Management (SIEM) system built using *
 - [Step 7 — Dashboard & Compliance Monitoring](#step-7--dashboard--compliance-monitoring)
 - [Compliance Mapping](#compliance-mapping)
 - [Screenshots](#screenshots)
-- [Viva / Interview Q&A](#viva--interview-qa)
-- [Future Scope](#future-scope)
-- [Author](#author)
+
 
 ---
 
@@ -579,7 +577,7 @@ Complete mapping of security events to compliance frameworks:
 
 ---
 
-## Viva / Interview Q&A
+## Q&A
 
 **Q: What is SIEM?**
 A: Security Information and Event Management — it aggregates logs from multiple sources, correlates events, detects threats, and generates alerts from a centralized platform.
