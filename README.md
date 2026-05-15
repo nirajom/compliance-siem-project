@@ -1,10 +1,10 @@
-# 🛡️ SIEM-Based Compliance Monitoring System
+#  SIEM-Based Compliance Monitoring System
 
 A complete Security Information and Event Management (SIEM) system built using **Wazuh 4.7.5** on a local KVM/QEMU virtualization lab. This project collects real-time security logs from endpoints, detects threats, maps alerts to compliance frameworks (**PCI-DSS**, **ISO 27001**, **CIS Benchmarks**, **MITRE ATT&CK**), and visualizes everything through a centralized dashboard.
 
 ---
 
-## 📋 Table of Contents
+##  Table of Contents
 
 - [Project Overview](#project-overview)
 - [Architecture](#architecture)
@@ -175,9 +175,9 @@ During installation, we selected:
 | Network | DHCP (auto-assigned 192.168.122.107) |
 | Storage | Use entire disk |
 | Profile | Username: `om`, Hostname: `wazuh-server` |
-| SSH | ✅ Install OpenSSH server |
-| Ubuntu Pro | ❌ Skip for now (not needed for lab) |
-| Featured Snaps | ❌ None selected (saves RAM and disk) |
+| SSH |  Install OpenSSH server |
+| Ubuntu Pro |  Skip for now (not needed for lab) |
+| Featured Snaps |  None selected (saves RAM and disk) |
 
 ### 2.4 Post-Installation Verification
 
@@ -227,7 +227,7 @@ INFO: You can access the web interface https://192.168.122.107
     Password: <generated-password>
 ```
 
-> ⚠️ **Save these credentials immediately** — they are shown only once.
+>  **Save these credentials immediately** — they are shown only once.
 
 ### 3.2 Verify All Services
 
